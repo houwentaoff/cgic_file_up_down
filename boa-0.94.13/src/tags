@@ -1,0 +1,512 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ALIAS	defines.h	149;"	d
+ALIAS_HASHTABLE_SIZE	defines.h	47;"	d
+BOA_FD_SET	defines.h	177;"	d
+BODY_READ	defines.h	134;"	d
+BODY_WRITE	defines.h	135;"	d
+BUFFER_SIZE	defines.h	44;"	d
+BoaConfigStmt	boa_grammar.y	/^BoaConfigStmt:		$/;"	l
+BoaConfigStmts	boa_grammar.y	/^BoaConfigStmts:		BoaConfigStmts BoaConfigStmt$/;"	l
+CC	Makefile	/^CC = gcc $/;"	m
+CFLAGS	Makefile	/^CFLAGS = -g -O2 -pipe -Wall -I.$/;"	m
+CGI	defines.h	144;"	d
+CGI_ARGC_MAX	defines.h	76;"	d
+CGI_BUFFER	defines.h	161;"	d
+CGI_DONE	defines.h	162;"	d
+CGI_ENV_MAX	defines.h	75;"	d
+CGI_MIME_TYPE	defines.h	52;"	d
+CGI_PARSE	defines.h	160;"	d
+CGI_VERSION	defines.h	73;"	d
+CLIENT_STREAM_SIZE	defines.h	43;"	d
+COMMON_CGI_COUNT	defines.h	74;"	d
+CONST	index_dir.c	45;"	d	file:
+CONST	index_dir.c	47;"	d	file:
+CONST	myindex_dir.c	45;"	d	file:
+CONST	myindex_dir.c	47;"	d	file:
+CPP	Makefile	/^CPP = gcc -E$/;"	m
+CRLF	response.c	28;"	d	file:
+ConfigFiles	boa_grammar.y	/^ConfigFiles:		BoaConfigStmts MimeTypeStmts$/;"	l
+DBG	config.c	30;"	d	file:
+DBG	config.c	32;"	d	file:
+DEAD	defines.h	140;"	d
+DEFAULT_PATH	defines.h	34;"	d
+DIE	defines.h	195;"	d
+DIRBUF_SIZE	util.c	479;"	d	file:
+DMALLOC_FUNC_CHECK	compat.h	132;"	d
+DONE	defines.h	139;"	d
+Extension	boa_grammar.y	/^Extension:		STRING$/;"	l
+ExtensionList	boa_grammar.y	/^ExtensionList:		ExtensionList Extension$/;"	l
+GCC_FLAGS	Makefile	/^GCC_FLAGS = -Wstrict-prototypes -Wpointer-arith -Wcast-align -Wcast-qual\\$/;"	m
+GUNZIP	acconfig.h	2;"	d
+GUNZIP	config.h	37;"	d
+HAVE_ALPHASORT	config.h	49;"	d
+HAVE_DIRENT_H	config.h	82;"	d
+HAVE_FCNTL_H	config.h	85;"	d
+HAVE_GETCWD	config.h	52;"	d
+HAVE_GETHOSTBYNAME	config.h	55;"	d
+HAVE_GETHOSTNAME	config.h	58;"	d
+HAVE_GETOPT_H	config.h	88;"	d
+HAVE_GETPAGESIZE	config.h	61;"	d
+HAVE_INET_ATON	config.h	64;"	d
+HAVE_LIMITS_H	config.h	91;"	d
+HAVE_MMAP	config.h	11;"	d
+HAVE_SCANDIR	config.h	67;"	d
+HAVE_SELECT	config.h	70;"	d
+HAVE_SIN_LEN	acconfig.h	5;"	d
+HAVE_SOCKET	config.h	73;"	d
+HAVE_STRDUP	config.h	76;"	d
+HAVE_STRSTR	config.h	79;"	d
+HAVE_SYS_FCNTL_H	config.h	100;"	d
+HAVE_SYS_SELECT_H	config.h	106;"	d
+HAVE_SYS_TIME_H	config.h	109;"	d
+HAVE_SYS_WAIT_H	config.h	14;"	d
+HAVE_TM_GMTOFF	acconfig.h	11;"	d
+HAVE_TM_GMTOFF	config.h	43;"	d
+HAVE_TM_ZONE	acconfig.h	14;"	d
+HAVE_TM_ZONE	config.h	17;"	d
+HAVE_TM_ZONE	config.h	46;"	d
+HAVE_UNISTD_H	config.h	112;"	d
+HEX	request.c	106;"	d	file:
+HEX_TO_DECIMAL	util.c	28;"	d	file:
+HTML	response.c	27;"	d	file:
+INT_TO_HEX	buffer.c	27;"	d	file:
+INT_TO_HEX	index_dir.c	35;"	d	file:
+INT_TO_HEX	myindex_dir.c	35;"	d	file:
+KA_ACTIVE	defines.h	157;"	d
+KA_INACTIVE	defines.h	155;"	d
+KA_STOPPED	defines.h	156;"	d
+LDFLAGS	Makefile	/^LDFLAGS =  -g$/;"	m
+LEX	Makefile	/^LEX = lex $/;"	m
+LIBS	Makefile	/^LIBS =  $/;"	m
+MAP_OPTIONS	compat.h	67;"	d
+MAP_OPTIONS	compat.h	69;"	d
+MAX_ACCEPT_LENGTH	defines.h	64;"	d
+MAX_ACCEPT_LENGTH	defines.h	66;"	d
+MAX_FILE_LENGTH	defines.h	60;"	d
+MAX_FILE_LENGTH	index_dir.c	32;"	d	file:
+MAX_FILE_LENGTH	myindex_dir.c	32;"	d	file:
+MAX_FILE_MMAP	defines.h	171;"	d
+MAX_HASH_LENGTH	hash.c	88;"	d	file:
+MAX_HEADER_LENGTH	defines.h	42;"	d
+MAX_LOG_LENGTH	defines.h	59;"	d
+MAX_PATH_LENGTH	defines.h	61;"	d
+MAX_PATH_LENGTH	index_dir.c	33;"	d	file:
+MAX_PATH_LENGTH	myindex_dir.c	33;"	d	file:
+MAX_SITENAME_LENGTH	defines.h	58;"	d
+MIME_HASHTABLE_SIZE	defines.h	46;"	d
+MMAP_LIST_HASH	defines.h	169;"	d
+MMAP_LIST_MASK	defines.h	166;"	d
+MMAP_LIST_NEXT	defines.h	168;"	d
+MMAP_LIST_SIZE	defines.h	165;"	d
+MMAP_LIST_USE_MAX	defines.h	167;"	d
+M_DELETE	defines.h	124;"	d
+M_GET	defines.h	120;"	d
+M_HEAD	defines.h	121;"	d
+M_LINK	defines.h	125;"	d
+M_POST	defines.h	123;"	d
+M_PUT	defines.h	122;"	d
+M_UNLINK	defines.h	126;"	d
+MimeTypeStmt	boa_grammar.y	/^MimeTypeStmt:		MIMETYPE $/;"	l
+MimeTypeStmts	boa_grammar.y	/^MimeTypeStmts:		MimeTypeStmts MimeTypeStmt$/;"	l
+NAMLEN	compat.h	84;"	d
+NAMLEN	compat.h	87;"	d
+NEEDS_ESCAPE_BITS	escape.h	28;"	d
+NEEDS_ESCAPE_INDEX	escape.h	36;"	d
+NEEDS_ESCAPE_MASK	escape.h	39;"	d
+NEEDS_ESCAPE_SHIFT	acconfig.h	8;"	d
+NEEDS_ESCAPE_SHIFT	escape.h	31;"	d
+NEEDS_ESCAPE_WORD_LENGTH	escape.h	34;"	d
+NI_MAXHOST	compat.h	43;"	d
+NOBLOCK	compat.h	57;"	d
+NOBLOCK	compat.h	60;"	d
+NPH	defines.h	145;"	d
+OBJS	Makefile	/^OBJS = y.tab.o lex.yy.o $(SOURCES:.c=.o) timestamp.o $/;"	m
+ONE_CR	defines.h	131;"	d
+ONE_LF	defines.h	132;"	d
+OPEN_MAX	compat.h	39;"	d
+PASSWD_HASHTABLE_SIZE	defines.h	48;"	d
+PATH_MAX	compat.h	52;"	d
+PIPE_READ	defines.h	137;"	d
+PIPE_WRITE	defines.h	138;"	d
+READ_HEADER	defines.h	130;"	d
+REDIRECT	defines.h	151;"	d
+REQUEST_TIMEOUT	defines.h	50;"	d
+R_ACCEPTED	defines.h	90;"	d
+R_BAD_GATEWAY	defines.h	113;"	d
+R_BAD_REQUEST	defines.h	99;"	d
+R_BAD_VERSION	defines.h	116;"	d
+R_CLIENT_ERROR	defines.h	83;"	d
+R_CONFLICT	defines.h	108;"	d
+R_CREATED	defines.h	89;"	d
+R_ERROR	defines.h	111;"	d
+R_FORBIDDEN	defines.h	102;"	d
+R_GATEWAY_TO	defines.h	115;"	d
+R_GONE	defines.h	109;"	d
+R_INFORMATIONAL	defines.h	80;"	d
+R_METHOD_NA	defines.h	104;"	d
+R_MOVED_PERM	defines.h	95;"	d
+R_MOVED_TEMP	defines.h	96;"	d
+R_MULTIPLE	defines.h	94;"	d
+R_NONE_ACC	defines.h	105;"	d
+R_NOT_FOUND	defines.h	103;"	d
+R_NOT_IMP	defines.h	112;"	d
+R_NOT_MODIFIED	defines.h	97;"	d
+R_NO_CONTENT	defines.h	92;"	d
+R_PAYMENT	defines.h	101;"	d
+R_PROVISIONAL	defines.h	91;"	d
+R_PROXY	defines.h	106;"	d
+R_REDIRECTION	defines.h	82;"	d
+R_REQUEST_OK	defines.h	88;"	d
+R_REQUEST_TO	defines.h	107;"	d
+R_SERVER_ERROR	defines.h	84;"	d
+R_SERVICE_UNAV	defines.h	114;"	d
+R_SUCCESS	defines.h	81;"	d
+R_UNAUTHORIZED	defines.h	100;"	d
+S0A	config.c	84;"	d	file:
+S1A	config.c	85;"	d	file:
+S2A	config.c	86;"	d	file:
+SCRIPTALIAS	defines.h	150;"	d
+SERVER_AF	compat.h	75;"	d
+SERVER_AF	compat.h	79;"	d
+SERVER_ROOT	defines.h	30;"	d
+SERVER_VERSION	defines.h	70;"	d
+SINGLE_POST_LIMIT_DEFAULT	defines.h	37;"	d
+SOCKADDR	compat.h	73;"	d
+SOCKADDR	compat.h	77;"	d
+SOCKETBUF_SIZE	defines.h	41;"	d
+SOURCES	Makefile	/^SOURCES = alias.c boa.c buffer.c cgi.c cgi_header.c config.c escape.c \\$/;"	m
+SO_MAXCONN	compat.h	48;"	d
+SQUASH_KA	defines.h	175;"	d
+STDC_HEADERS	config.h	28;"	d
+S_FAMILY	compat.h	74;"	d
+S_FAMILY	compat.h	78;"	d
+StmtNoArgs	boa_grammar.y	/^StmtNoArgs:		STMT_NO_ARGS$/;"	l
+StmtOneArg	boa_grammar.y	/^StmtOneArg:		STMT_ONE_ARG STRING$/;"	l
+StmtTwoArgs	boa_grammar.y	/^StmtTwoArgs:		STMT_TWO_ARGS STRING$/;"	l
+TIMEZONE	compat.h	126;"	d
+TIMEZONE	compat.h	128;"	d
+TIMEZONE_OFFSET	compat.h	120;"	d
+TIMEZONE_OFFSET	compat.h	122;"	d
+TIME_WITH_SYS_TIME	config.h	31;"	d
+TWO_CR	defines.h	133;"	d
+VPATH	Makefile	/^VPATH = .:.\/..\/extras$/;"	m
+WARN	defines.h	196;"	d
+WRITE	defines.h	136;"	d
+YACC	Makefile	/^YACC = bison -y $/;"	m
+_BOA_H	boa.h	26;"	d
+_COMPAT_H	compat.h	26;"	d
+_DEFINES_H	defines.h	25;"	d
+_GLOBALS_H	globals.h	26;"	d
+_hash_struct_	hash.c	/^struct _hash_struct_ {$/;"	s	file:
+_needs_escape	escape.c	/^unsigned long _needs_escape[(NEEDS_ESCAPE_BITS+NEEDS_ESCAPE_WORD_LENGTH-1)\/NEEDS_ESCAPE_WORD_LENGTH];$/;"	v
+accept	globals.h	/^    char accept[MAX_ACCEPT_LENGTH]; \/* Accept: fields *\/$/;"	m	struct:request
+access_log	log.c	/^FILE *access_log;$/;"	v
+access_log_name	config.c	/^char *access_log_name;$/;"	v
+access_log_name	log.c	/^char *access_log_name;$/;"	v
+action	parse.h	/^    void (*action) (char *, char *, void *);$/;"	m	struct:ccommand
+add_accept_header	request.c	/^void add_accept_header(request * req, char *mime_type)$/;"	f
+add_alias	alias.c	/^void add_alias(char *fakename, char *realname, int type)$/;"	f
+add_cgi_env	cgi.c	/^int add_cgi_env(request * req, char *key, char *value, int http_prefix)$/;"	f
+add_mime_type	hash.c	/^void add_mime_type(char *extension, char *type)$/;"	f
+alias	globals.h	/^struct alias {$/;"	s
+alias	globals.h	/^typedef struct alias alias;$/;"	t	typeref:struct:alias
+alias_hashtable	alias.c	/^static alias *alias_hashtable[ALIAS_HASHTABLE_SIZE];$/;"	v	file:
+alias_number	config.c	/^static int alias_number = ALIAS;$/;"	v	file:
+ascii_sockaddr	ip.c	/^char *ascii_sockaddr(struct SOCKADDR *s, char *dest, int len)$/;"	f
+backlog	boa.c	/^int backlog = SO_MAXCONN;$/;"	v
+bind_server	ip.c	/^int bind_server(int server_s, char *server_ip)$/;"	f
+block_read_fdset	select.c	/^fd_set block_read_fdset;$/;"	v
+block_request	queue.c	/^void block_request(request * req)$/;"	f
+block_write_fdset	select.c	/^fd_set block_write_fdset;$/;"	v
+boa_atoi	util.c	/^int boa_atoi(char *s)$/;"	f
+boa_hash	hash.c	55;"	d	file:
+boa_hash	hash.c	59;"	d	file:
+boa_hash	hash.c	62;"	d	file:
+boa_perror	log.c	/^void boa_perror(request * req, char *message)$/;"	f
+buffer	globals.h	/^    char buffer[BUFFER_SIZE + 1]; \/* generic I\/O buffer *\/$/;"	m	struct:request
+buffer_end	globals.h	/^    int buffer_end;             \/* where the buffer ends *\/$/;"	m	struct:request
+buffer_start	globals.h	/^    int buffer_start;           \/* where the buffer starts *\/$/;"	m	struct:request
+build_needs_escape	escape.c	/^void build_needs_escape(void)$/;"	f
+c_add_alias	config.c	/^static void c_add_alias(char *v1, char *v2, void *t)$/;"	f	file:
+c_add_type	config.c	/^static void c_add_type(char *v1, char *v2, void *t)$/;"	f	file:
+c_set_group	config.c	/^static void c_set_group(char *v1, char *v2, void *t)$/;"	f	file:
+c_set_int	config.c	/^static void c_set_int(char *v1, char *v2, void *t)$/;"	f	file:
+c_set_string	config.c	/^static void c_set_string(char *v1, char *v2, void *t)$/;"	f	file:
+c_set_unity	config.c	/^static void c_set_unity(char *v1, char *v2, void *t)$/;"	f	file:
+c_set_user	config.c	/^static void c_set_user(char *v1, char *v2, void *t)$/;"	f	file:
+cachedir	config.c	/^char *cachedir;$/;"	v
+ccommand	parse.h	/^struct ccommand {$/;"	s
+cgi_env	globals.h	/^    char *cgi_env[CGI_ENV_MAX + 4];             \/* CGI environment *\/$/;"	m	struct:request
+cgi_env_index	globals.h	/^    int cgi_env_index;          \/* index into array *\/$/;"	m	struct:request
+cgi_log_fd	log.c	/^int cgi_log_fd;$/;"	v
+cgi_log_name	config.c	/^char *cgi_log_name;$/;"	v
+cgi_log_name	log.c	/^char *cgi_log_name;$/;"	v
+cgi_path	config.c	/^char *cgi_path = NULL;$/;"	v
+cgi_status	globals.h	/^    int cgi_status;$/;"	m	struct:request
+clean_pathname	util.c	/^void clean_pathname(char *pathname)$/;"	f
+clear_common_env	cgi.c	/^void clear_common_env(void)$/;"	f
+client_stream	globals.h	/^    char client_stream[CLIENT_STREAM_SIZE]; \/* data from client - fit or be hosed *\/$/;"	m	struct:request
+client_stream_pos	globals.h	/^    int client_stream_pos;      \/* how much have we read... *\/$/;"	m	struct:request
+clist	config.c	/^struct ccommand clist[] = {$/;"	v	typeref:struct:ccommand
+close_access_log	log.c	/^void close_access_log(void)$/;"	f
+common_cgi_env	cgi.c	/^static char *common_cgi_env[COMMON_CGI_COUNT + 1];$/;"	v	file:
+complete_env	cgi.c	/^int complete_env(request * req)$/;"	f
+content_length	globals.h	/^    char *content_length;       \/* env variable *\/$/;"	m	struct:request
+content_type	globals.h	/^    char *content_type;         \/* env variable *\/$/;"	m	struct:request
+create_argv	cgi.c	/^void create_argv(request * req, char **aargv)$/;"	f
+create_common_env	cgi.c	/^void create_common_env()$/;"	f
+create_server_socket	boa.c	/^static int create_server_socket(void)$/;"	f	file:
+create_temporary_file	util.c	/^int create_temporary_file(short want_unlink, char *storage, int size)$/;"	f
+current_time	boa.c	/^time_t current_time;$/;"	v
+current_uid	config.c	/^static uid_t current_uid=0;$/;"	v	file:
+data_fd	globals.h	/^    int data_fd;                \/* fd of data *\/$/;"	m	struct:request
+data_mem	globals.h	/^    char *data_mem;             \/* mmapped\/malloced char array *\/$/;"	m	struct:request
+day_tab	util.c	/^const char day_tab[] = "Sun,Mon,Tue,Wed,Thu,Fri,Sat,";$/;"	v
+default_type	config.c	/^char *default_type;$/;"	v
+dequeue	queue.c	/^void dequeue(request ** head, request * req)$/;"	f
+dev	globals.h	/^    dev_t dev;$/;"	m	struct:mmap_entry
+devnullfd	boa.c	/^int devnullfd = -1;$/;"	v
+directory_index	config.c	/^char *directory_index;$/;"	v
+dirent	compat.h	86;"	d
+dirmaker	config.c	/^char *dirmaker;$/;"	v
+djb2_hash	hash.c	/^static unsigned djb2_hash(char *str)$/;"	f	file:
+dmalloc_shutdown	configure	/^dmalloc_shutdown()$/;"	f
+do_fork	boa.c	/^static int do_fork = 1;$/;"	v	file:
+document_root	config.c	/^char *document_root;$/;"	v
+drop_privs	boa.c	/^static void drop_privs(void)$/;"	f	file:
+dump_alias	alias.c	/^void dump_alias(void)$/;"	f
+dump_mime	hash.c	/^void dump_mime(void)$/;"	f
+dump_passwd	hash.c	/^void dump_passwd(void)$/;"	f
+enqueue	queue.c	/^void enqueue(request ** head, request * req)$/;"	f
+env	signals.c	/^sigjmp_buf env;$/;"	v
+env_gen_extra	cgi.c	/^static char *env_gen_extra(const char *key, const char *value, int extra)$/;"	f	file:
+error_log_name	config.c	/^char *error_log_name;$/;"	v
+error_log_name	log.c	/^char *error_log_name;$/;"	v
+errors	globals.h	/^    long errors;$/;"	m	struct:status
+escape_string	buffer.c	/^char *escape_string(char *inp, char *buf)$/;"	f
+fake_len	globals.h	/^    int fake_len;               \/* strlen of fakename *\/$/;"	m	struct:alias
+fakename	globals.h	/^    char *fakename;             \/* URI path to file *\/$/;"	m	struct:alias
+fd	globals.h	/^    int fd;                     \/* client's socket fd *\/$/;"	m	struct:request
+fdset_update	select.c	/^static void fdset_update(void)$/;"	f	file:
+filepos	globals.h	/^    unsigned long filepos;      \/* position in file *\/$/;"	m	struct:request
+filesize	globals.h	/^    unsigned long filesize;     \/* filesize *\/$/;"	m	struct:request
+find_alias	alias.c	/^alias *find_alias(char *uri, int urilen)$/;"	f
+find_mmap	mmap_cache.c	/^struct mmap_entry *find_mmap(int data_fd, struct stat *s)$/;"	f
+find_named_mmap	mmap_cache.c	/^struct mmap_entry *find_named_mmap(char *fname)$/;"	f
+fixup_server_root	boa.c	/^static void fixup_server_root()$/;"	f	file:
+fopen_gen_fd	log.c	/^FILE *fopen_gen_fd(char *spec, const char *mode)$/;"	f
+four_char_hash	hash.c	/^static unsigned four_char_hash(char *buf)$/;"	f	file:
+free_request	request.c	/^static void free_request(request ** list_head_addr, request * req)$/;"	f	file:
+free_requests	request.c	/^void free_requests(void)$/;"	f
+get_alias_hash_value	alias.c	/^int get_alias_hash_value(char *file)$/;"	f
+get_cachedir_file	get.c	/^int get_cachedir_file(request * req, struct stat *statbuf)$/;"	f
+get_commonlog_time	util.c	/^char *get_commonlog_time(void)$/;"	f
+get_dir	get.c	/^int get_dir(request * req, struct stat *statbuf)$/;"	f
+get_home_dir	hash.c	/^char *get_home_dir(char *name)$/;"	f
+get_homedir_hash_value	hash.c	/^unsigned get_homedir_hash_value(char *name)$/;"	f
+get_mime_hash_value	hash.c	/^unsigned get_mime_hash_value(char *extension)$/;"	f
+get_mime_type	hash.c	/^char *get_mime_type(char *filename)$/;"	f
+get_request	request.c	/^void get_request(int server_s)$/;"	f
+gethostbyname	configure	/^gethostbyname()$/;"	f
+gethostname	configure	/^gethostname()$/;"	f
+handle_sigbus	signals.c	/^int handle_sigbus;$/;"	v
+hash_struct	hash.c	/^typedef struct _hash_struct_ hash_struct;$/;"	t	typeref:struct:_hash_struct_	file:
+header_end	globals.h	/^    char *header_end;           \/* last known end of header, or end of processed data *\/$/;"	m	struct:request
+header_line	globals.h	/^    char *header_line;          \/* beginning of un or incompletely processed header line *\/$/;"	m	struct:request
+header_referer	globals.h	/^    char *header_referer;$/;"	m	struct:request
+header_user_agent	globals.h	/^    char *header_user_agent;$/;"	m	struct:request
+html_escape_string	index_dir.c	/^char *html_escape_string(char *inp, char *dest, const int len)$/;"	f
+html_escape_string	myindex_dir.c	/^char *html_escape_string(char *inp, char *dest, const int len)$/;"	f
+http_escape_string	index_dir.c	/^char *http_escape_string(char *inp, char *buf, const int len)$/;"	f
+http_escape_string	myindex_dir.c	/^char *http_escape_string(char *inp, char *buf, const int len)$/;"	f
+http_version	globals.h	/^    char *http_version;         \/* HTTP\/?.? of req *\/$/;"	m	struct:request
+if_modified_since	globals.h	/^    char *if_modified_since;    \/* If-Modified-Since *\/$/;"	m	struct:request
+index_directory	get.c	/^int index_directory(request * req, char *dest_filename)$/;"	f
+index_directory	index_dir.c	/^int index_directory(char *dir, char *title)$/;"	f
+index_directory	myindex_dir.c	/^int index_directory(char *dir, char *title)$/;"	f
+inet_aton	configure	/^inet_aton()$/;"	f
+init_cgi	cgi.c	/^int init_cgi(request * req)$/;"	f
+init_get	get.c	/^int init_get(request * req)$/;"	f
+init_script_alias	alias.c	/^int init_script_alias(request * req, alias * current1, int uri_len)$/;"	f
+init_signals	signals.c	/^void init_signals(void)$/;"	f
+ino	globals.h	/^    ino_t ino;$/;"	m	struct:mmap_entry
+is_cgi	globals.h	/^    int is_cgi;                 \/* true if CGI\/NPH *\/$/;"	m	struct:request
+ka_max	config.c	/^int ka_max;$/;"	v
+ka_timeout	config.c	/^int ka_timeout;$/;"	v
+kacount	globals.h	/^    int kacount;                \/* keepalive count *\/$/;"	m	struct:request
+keepalive	globals.h	/^    int keepalive;              \/* keepalive status *\/$/;"	m	struct:request
+key	hash.c	/^    char *key;$/;"	m	struct:_hash_struct_	file:
+last_modified	globals.h	/^    time_t last_modified;       \/* Last-modified: *\/$/;"	m	struct:request
+len	globals.h	/^    size_t len;$/;"	m	struct:mmap_entry
+local_ip_addr	globals.h	/^    char local_ip_addr[NI_MAXHOST]; \/* for virtualhost *\/$/;"	m	struct:request
+log_access	log.c	/^void log_access(request * req)$/;"	f
+log_error_doc	log.c	/^void log_error_doc(request * req)$/;"	f
+log_error_mesg	log.c	/^void log_error_mesg(char *file, int line, char *mesg)$/;"	f
+log_error_time	log.c	/^void log_error_time()$/;"	f
+logline	globals.h	/^    char *logline;              \/* line to log file *\/$/;"	m	struct:request
+lookup_keyword	config.c	/^struct ccommand *lookup_keyword(char *c)$/;"	f
+main	boa.c	/^int main(int argc, char **argv)$/;"	f
+main	escape.c	/^int main(void)$/;"	f
+main	index_dir.c	/^int main(int argc, char *argv[])$/;"	f
+main	myindex_dir.c	/^int main(int argc, char *argv[])$/;"	f
+main	sublog.c	/^int main(int argc, char *argv[])$/;"	f
+max_connections	config.c	/^long int max_connections;$/;"	v
+max_fd	boa.c	/^int max_fd = 0;$/;"	v
+method	globals.h	/^    int method;                 \/* M_GET, M_POST, etc. *\/$/;"	m	struct:request
+mime_hashtable	hash.c	/^static hash_struct *mime_hashtable[MIME_HASHTABLE_SIZE];$/;"	v	file:
+mmap	globals.h	/^    char *mmap;$/;"	m	struct:mmap_entry
+mmap_entry	globals.h	/^struct mmap_entry {$/;"	s
+mmap_entry_var	globals.h	/^    struct mmap_entry *mmap_entry_var;$/;"	m	struct:request	typeref:struct:request::mmap_entry
+mmap_list	mmap_cache.c	/^static struct mmap_entry mmap_list[MMAP_LIST_SIZE];$/;"	v	typeref:struct:mmap_entry	file:
+mmap_list_entries_used	mmap_cache.c	/^int mmap_list_entries_used = 0;$/;"	v
+mmap_list_hash_bounces	mmap_cache.c	/^int mmap_list_hash_bounces = 0;$/;"	v
+mmap_list_total_requests	mmap_cache.c	/^int mmap_list_total_requests = 0;$/;"	v
+modified_since	util.c	/^int modified_since(time_t * mtime, char *if_modified_since)$/;"	f
+month2int	util.c	/^int month2int(char *monthname)$/;"	f
+month_tab	util.c	/^const char month_tab[48] =$/;"	v
+my_add_cgi_env	cgi.c	176;"	d	file:
+name	parse.h	/^    char *name;$/;"	m	struct:ccommand
+needs_escape	escape.h	44;"	d
+net_port	ip.c	/^int net_port(struct SOCKADDR *s)$/;"	f
+new_request	request.c	/^request *new_request(void)$/;"	f
+next	globals.h	/^    struct alias *next;$/;"	m	struct:alias	typeref:struct:alias::alias
+next	globals.h	/^    struct request *next;       \/* next *\/$/;"	m	struct:request	typeref:struct:request::request
+next	hash.c	/^    struct _hash_struct_ *next;$/;"	m	struct:_hash_struct_	typeref:struct:_hash_struct_::_hash_struct_	file:
+normalize_path	util.c	/^char * normalize_path(char *path)$/;"	f
+object	parse.h	/^    void *object;$/;"	m	struct:ccommand
+open_gen_fd	sublog.c	/^int open_gen_fd(char *spec)$/;"	f
+open_logs	log.c	/^void open_logs(void)$/;"	f
+open_net_fd	sublog.c	/^int open_net_fd(char *spec)$/;"	f
+open_pipe_fd	sublog.c	/^int open_pipe_fd(char *command)$/;"	f
+opendir	configure	/^opendir()$/;"	f
+parse_pos	globals.h	/^    int parse_pos;              \/* how much have we parsed *\/$/;"	m	struct:request
+passwd_hashtable	hash.c	/^static hash_struct *passwd_hashtable[PASSWD_HASHTABLE_SIZE];$/;"	v	file:
+path_info	globals.h	/^    char *path_info;            \/* env variable *\/$/;"	m	struct:request
+path_translated	globals.h	/^    char *path_translated;      \/* env variable *\/$/;"	m	struct:request
+pathname	globals.h	/^    char *pathname;             \/* pathname of requested file *\/$/;"	m	struct:request
+pending_requests	boa.c	/^int pending_requests = 0;$/;"	v
+post_data_fd	globals.h	/^    int post_data_fd;           \/* fd for post data tmpfile *\/$/;"	m	struct:request
+prev	globals.h	/^    struct request *prev;       \/* previous *\/$/;"	m	struct:request	typeref:struct:request::request
+print_content_length	response.c	/^void print_content_length(request * req)$/;"	f
+print_content_type	response.c	/^void print_content_type(request * req)$/;"	f
+print_http_headers	response.c	/^void print_http_headers(request * req)$/;"	f
+print_ka_phrase	response.c	/^void print_ka_phrase(request * req)$/;"	f
+print_last_modified	response.c	/^void print_last_modified(request * req)$/;"	f
+process_cgi_header	cgi_header.c	/^int process_cgi_header(request * req)$/;"	f
+process_get	get.c	/^int process_get(request * req)$/;"	f
+process_header_end	request.c	/^int process_header_end(request * req)$/;"	f
+process_logline	request.c	/^int process_logline(request * req)$/;"	f
+process_option_line	request.c	/^int process_option_line(request * req)$/;"	f
+process_requests	request.c	/^void process_requests(int server_s)$/;"	f
+query_string	globals.h	/^    char *query_string;         \/* env variable *\/$/;"	m	struct:request
+read_body	read.c	/^int read_body(request * req)$/;"	f
+read_config_files	config.c	/^void read_config_files(void)$/;"	f
+read_from_pipe	pipe.c	/^int read_from_pipe(request * req)$/;"	f
+read_header	read.c	/^int read_header(request * req)$/;"	f
+ready_request	queue.c	/^void ready_request(request * req)$/;"	f
+real_len	globals.h	/^    int real_len;               \/* strlen of realname *\/$/;"	m	struct:alias
+real_set_block_fd	util.c	/^int real_set_block_fd(int fd)$/;"	f
+real_set_nonblock_fd	util.c	/^int real_set_nonblock_fd(int fd)$/;"	f
+realname	globals.h	/^    char *realname;             \/* Actual path to file *\/$/;"	m	struct:alias
+redirect_number	config.c	/^static int redirect_number = REDIRECT;$/;"	v	file:
+release_mmap	mmap_cache.c	/^void release_mmap(struct mmap_entry *e)$/;"	f
+remote_ip_addr	globals.h	/^    char remote_ip_addr[NI_MAXHOST]; \/* after inet_ntoa *\/$/;"	m	struct:request
+remote_port	globals.h	/^    int remote_port;            \/* could be used for ident *\/$/;"	m	struct:request
+req_flush	buffer.c	/^int req_flush(request * req)$/;"	f
+req_timeout	select.c	/^static struct timeval req_timeout;     \/* timeval for select *\/$/;"	v	typeref:struct:timeval	file:
+req_write	buffer.c	/^int req_write(request * req, char *msg)$/;"	f
+req_write_escape_html	buffer.c	/^int req_write_escape_html(request * req, char *msg)$/;"	f
+req_write_escape_http	buffer.c	/^int req_write_escape_http(request * req, char *msg)$/;"	f
+request	globals.h	/^struct request {                \/* pending requests *\/$/;"	s
+request	globals.h	/^typedef struct request request;$/;"	t	typeref:struct:request
+request_block	queue.c	/^request *request_block = NULL;  \/* blocked list head *\/$/;"	v
+request_free	queue.c	/^request *request_free = NULL;   \/* free list head *\/$/;"	v
+request_ready	queue.c	/^request *request_ready = NULL;  \/* ready list head *\/$/;"	v
+request_uri	globals.h	/^    char request_uri[MAX_HEADER_LENGTH + 1]; \/* uri *\/$/;"	m	struct:request
+requests	globals.h	/^    long requests;$/;"	m	struct:status
+reset_output_buffer	buffer.c	/^void reset_output_buffer(request *req)$/;"	f
+response_status	globals.h	/^    int response_status;        \/* R_NOT_FOUND etc. *\/$/;"	m	struct:request
+rfc822_time_buf	util.c	/^void rfc822_time_buf(char *buf, time_t s)$/;"	f
+script_name	globals.h	/^    char *script_name;          \/* env variable *\/$/;"	m	struct:request
+script_number	config.c	/^static int script_number = SCRIPTALIAS;$/;"	v	file:
+sdbm_hash	hash.c	/^static unsigned sdbm_hash(char *str)$/;"	f	file:
+select_files	index_dir.c	/^int select_files(CONST struct dirent *dirbuf)$/;"	f
+select_files	myindex_dir.c	/^int select_files(CONST struct dirent *dirbuf)$/;"	f
+select_loop	select.c	/^void select_loop(int server_s)$/;"	f
+send_error	index_dir.c	/^void send_error(int error)$/;"	f
+send_error	myindex_dir.c	/^void send_error(int error)$/;"	f
+send_r_bad_gateway	response.c	/^void send_r_bad_gateway(request * req)$/;"	f
+send_r_bad_request	response.c	/^void send_r_bad_request(request * req)$/;"	f
+send_r_bad_version	response.c	/^void send_r_bad_version(request * req)$/;"	f
+send_r_error	response.c	/^void send_r_error(request * req)$/;"	f
+send_r_forbidden	response.c	/^void send_r_forbidden(request * req)$/;"	f
+send_r_moved_perm	response.c	/^void send_r_moved_perm(request * req, char *url)$/;"	f
+send_r_moved_temp	response.c	/^void send_r_moved_temp(request * req, char *url, char *more_hdr)$/;"	f
+send_r_not_found	response.c	/^void send_r_not_found(request * req)$/;"	f
+send_r_not_implemented	response.c	/^void send_r_not_implemented(request * req)$/;"	f
+send_r_not_modified	response.c	/^void send_r_not_modified(request * req)$/;"	f
+send_r_request_ok	response.c	/^void send_r_request_ok(request * req)$/;"	f
+send_r_service_unavailable	response.c	/^void send_r_service_unavailable(request * req) \/* 503 *\/$/;"	f
+send_r_unauthorized	response.c	/^void send_r_unauthorized(request * req, char *realm_name)$/;"	f
+server_admin	config.c	/^char *server_admin;$/;"	v
+server_gid	config.c	/^gid_t server_gid;$/;"	v
+server_ip	config.c	/^char *server_ip;$/;"	v
+server_name	config.c	/^char *server_name;$/;"	v
+server_port	config.c	/^int server_port;$/;"	v
+server_root	config.c	/^char *server_root;$/;"	v
+server_uid	config.c	/^uid_t server_uid;$/;"	v
+set_block_fd	defines.h	188;"	d
+set_block_fd	defines.h	191;"	d
+set_nonblock_fd	defines.h	189;"	d
+set_nonblock_fd	defines.h	192;"	d
+show_hash_stats	hash.c	/^void show_hash_stats(void)$/;"	f
+sigalrm	signals.c	/^void sigalrm(int dummy)$/;"	f
+sigalrm_flag	boa.c	/^int sigalrm_flag = 0;           \/* 1 => signal has happened, needs attention *\/$/;"	v
+sigalrm_run	signals.c	/^void sigalrm_run(void)$/;"	f
+sigbus	signals.c	/^void sigbus(int dummy)$/;"	f
+sigchld	signals.c	/^void sigchld(int dummy)$/;"	f
+sigchld_flag	boa.c	/^int sigchld_flag = 0;           \/* 1 => signal has happened, needs attention *\/$/;"	v
+sigchld_run	signals.c	/^void sigchld_run(void)$/;"	f
+sighup	signals.c	/^void sighup(int dummy)$/;"	f
+sighup_flag	boa.c	/^int sighup_flag = 0;            \/* 1 => signal has happened, needs attention *\/$/;"	v
+sighup_run	signals.c	/^void sighup_run(void)$/;"	f
+sigint	signals.c	/^void sigint(int dummy)$/;"	f
+sigsegv	signals.c	/^void sigsegv(int dummy)$/;"	f
+sigterm	signals.c	/^void sigterm(int dummy)$/;"	f
+sigterm_flag	boa.c	/^int sigterm_flag = 0;           \/* lame duck mode *\/$/;"	v
+sigterm_stage1_run	signals.c	/^void sigterm_stage1_run(int server_s) \/* lame duck mode *\/$/;"	f
+sigterm_stage2_run	signals.c	/^void sigterm_stage2_run() \/* lame duck mode *\/$/;"	f
+simple	globals.h	/^    int simple;                 \/* simple request? *\/$/;"	m	struct:request
+simple_itoa	util.c	/^char *simple_itoa(unsigned int i)$/;"	f
+single_post_limit	config.c	/^int single_post_limit = SINGLE_POST_LIMIT_DEFAULT;$/;"	v
+sock_opt	boa.c	/^static int sock_opt = 1;$/;"	v	file:
+sockbufsize	request.c	/^static int sockbufsize = SOCKETBUF_SIZE;$/;"	v	file:
+socket	configure	/^socket()$/;"	f
+srcdir	Makefile	/^srcdir = .$/;"	m
+start_time	boa.c	/^time_t start_time;$/;"	v
+status	globals.h	/^    int status;                 \/* see #defines.h *\/$/;"	m	struct:request
+status	globals.h	/^struct status {$/;"	s
+status	request.c	/^struct status status;$/;"	v	typeref:struct:status
+tempdir	config.c	/^char *tempdir;$/;"	v
+time_last	globals.h	/^    time_t time_last;           \/* time of last succ. op. *\/$/;"	m	struct:request
+timestamp	timestamp.c	/^void timestamp(void)$/;"	f
+to_upper	util.c	/^char *to_upper(char *str)$/;"	f
+total_connections	request.c	/^int total_connections;$/;"	v
+translate_uri	alias.c	/^int translate_uri(request * req)$/;"	f
+type	globals.h	/^    int type;                   \/* ALIAS, SCRIPTALIAS, REDIRECT *\/$/;"	m	struct:alias
+type	parse.h	/^    int type;$/;"	m	struct:ccommand
+unescape_uri	util.c	/^int unescape_uri(char *uri, char ** query_string)$/;"	f
+use_count	globals.h	/^    int use_count;$/;"	m	struct:mmap_entry
+use_localtime	config.c	/^int use_localtime;$/;"	v
+user_dir	config.c	/^char *user_dir;$/;"	v
+value	hash.c	/^    char *value;$/;"	m	struct:_hash_struct_	file:
+verbose_cgi_logs	cgi.c	/^int verbose_cgi_logs = 0;$/;"	v
+virtualhost	config.c	/^int virtualhost;$/;"	v
+write_body	read.c	/^int write_body(request * req)$/;"	f
+write_from_pipe	pipe.c	/^int write_from_pipe(request * req)$/;"	f
+yywrap	configure	/^yywrap()$/;"	f

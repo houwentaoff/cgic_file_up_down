@@ -1,0 +1,315 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+#cgiScriptName</a	cgic.html	/^<code>.boutell.com<\/code>. The cgic variables <a name="#cgiScriptName<\/a>$/;"	a
+#cgiServerName	cgic.html	/^and <a name="#cgiServerName">cgiServerName<\/a> are convenient$/;"	a
+APPEND	cgic.c	655;"	d	file:
+AR	Makefile	/^AR=ar$/;"	m
+Address	cgictest.c	/^void Address() {$/;"	f
+BAPPEND	cgic.c	676;"	d	file:
+CC	Makefile	/^CC=gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS=-g -Wall$/;"	m
+CGICDEBUGEND	cgic.c	20;"	d	file:
+CGICDEBUGEND	cgic.c	25;"	d	file:
+CGICDEBUGSTART	cgic.c	15;"	d	file:
+CGICDEBUGSTART	cgic.c	24;"	d	file:
+CGIC_VERSION	cgic.c	1877;"	d	file:
+CGI_C	cgic.h	7;"	d
+Color	cgictest.c	/^void Color() {$/;"	f
+CookieSet	cgictest.c	/^void CookieSet()$/;"	f
+Cookies	cgictest.c	/^void Cookies()$/;"	f
+Entries	cgictest.c	/^void Entries()$/;"	f
+File	cgictest.c	/^void File()$/;"	f
+File	upload.c	/^void File()$/;"	f
+Flavors	cgictest.c	/^void Flavors() {$/;"	f
+Frogs	cgictest.c	/^void Frogs() {$/;"	f
+HandleSubmit	cgictest.c	/^void HandleSubmit()$/;"	f
+HandleSubmit	upload.c	/^void HandleSubmit()$/;"	f
+Hungry	cgictest.c	/^void Hungry() {$/;"	f
+LIBS	Makefile	/^LIBS=-L.\/ -lcgic$/;"	m
+LoadEnvironment	cgictest.c	/^void LoadEnvironment()$/;"	f
+Name	cgictest.c	/^void Name() {$/;"	f
+NonExButtons	cgictest.c	/^void NonExButtons() {$/;"	f
+OBJ_DIR	Makefile	/^OBJ_DIR=.\/obj\/$/;"	m
+RANLIB	Makefile	/^RANLIB=ranlib$/;"	m
+RAPPEND	cgic.c	662;"	d	file:
+RadioButtons	cgictest.c	/^void RadioButtons() {$/;"	f
+SAVED_ENVIRONMENT	cgictest.c	17;"	d	file:
+SAVED_ENVIRONMENT	cgictest.c	19;"	d	file:
+SAVED_ENVIRONMENT	upload.c	17;"	d	file:
+SAVED_ENVIRONMENT	upload.c	19;"	d	file:
+SERVER_NAME	cgictest.c	4;"	d	file:
+SERVER_NAME	upload.c	4;"	d	file:
+SaveEnvironment	cgictest.c	/^void SaveEnvironment()$/;"	f
+ShowForm	cgictest.c	/^void ShowForm()$/;"	f
+ShowForm	upload.c	/^void ShowForm()$/;"	f
+TRYPUTC	cgic.c	2462;"	d	file:
+Temperature	cgictest.c	/^void Temperature() {$/;"	f
+a	other.c	/^int a;$/;"	m	struct:tag	file:
+afterNextBoundary	cgic.c	/^cgiParseResultType afterNextBoundary(mpStreamPtr mpp, FILE *outf, char **outP,$/;"	f
+ages	cgictest.c	/^char *ages[] = {$/;"	v
+attr	cgic.c	/^        char *attr;$/;"	m	struct:cgiFormEntryStruct	file:
+b	other.c	/^int b;$/;"	m	struct:tag	file:
+build	cgic.html	/^<h3><a name="build">Building cgic: a sample application<\/a><\/h3>$/;"	a
+cgiAccept	cgic.c	/^char *cgiAccept;$/;"	v
+cgiAccept	cgic.html	/^<br><dt><strong><a name="cgiAccept">char *cgiAccept<\/a>$/;"	a
+cgiAuthType	cgic.c	/^char *cgiAuthType;$/;"	v
+cgiAuthType	cgic.html	/^<br><dt><strong><a name="cgiAuthType">char *cgiAuthType<\/a>$/;"	a
+cgiContentLength	cgic.c	/^int cgiContentLength;$/;"	v
+cgiContentLength	cgic.html	/^<br><dt><strong><a name="cgiContentLength">int cgiContentLength<\/a>$/;"	a
+cgiContentType	cgic.c	/^char *cgiContentType = cgiContentTypeData;$/;"	v
+cgiContentType	cgic.html	/^<br><dt><strong><a name="cgiContentType">char *cgiContentType<\/a>$/;"	a
+cgiContentType	cgic.html	/^<br><dt><strong><a name="cgiContentType">char *cgiCookie<\/a>$/;"	a
+cgiContentTypeData	cgic.c	/^char cgiContentTypeData[1024];$/;"	v
+cgiCookie	cgic.c	/^char *cgiCookie;$/;"	v
+cgiCookieInteger	cgic.c	/^cgiFormResultType cgiCookieInteger($/;"	f
+cgiCookieInteger	cgic.html	/^<br><br><dt><strong><a name="cgiCookieInteger">cgiFormResultType cgiCookieInteger($/;"	a
+cgiCookieString	cgic.c	/^cgiFormResultType cgiCookieString($/;"	f
+cgiCookieString	cgic.html	/^<br><dt><strong><a name="cgiCookieString">cgiFormResultType cgiCookieString($/;"	a
+cgiCookies	cgic.c	/^cgiFormResultType cgiCookies(char ***result) {$/;"	f
+cgiCookies	cgic.html	/^<br><br><dt><strong><a name="cgiCookies">cgiFormResultType cgiCookies($/;"	a
+cgiEnvironmentIO	cgic.h	/^	cgiEnvironmentIO,$/;"	e	enum:__anon6
+cgiEnvironmentIO	cgic.html	/^<br><dt><strong><a name="cgiEnvironmentIO">cgiEnvironmentIO<\/a>$/;"	a
+cgiEnvironmentMemory	cgic.h	/^	cgiEnvironmentMemory,$/;"	e	enum:__anon6
+cgiEnvironmentMemory	cgic.html	/^<br><dt><strong><a name="cgiEnvironmentMemory">cgiEnvironmentMemory<\/a>$/;"	a
+cgiEnvironmentResultType	cgic.h	/^} cgiEnvironmentResultType;$/;"	t	typeref:enum:__anon6
+cgiEnvironmentSuccess	cgic.h	/^	cgiEnvironmentSuccess,$/;"	e	enum:__anon6
+cgiEnvironmentSuccess	cgic.html	/^<br><dt><strong><a name="cgiEnvironmentSuccess">cgiEnvironmentSuccess<\/a>$/;"	a
+cgiEnvironmentWrongVersion	cgic.h	/^	cgiEnvironmentWrongVersion$/;"	e	enum:__anon6
+cgiEnvironmentWrongVersion	cgic.html	/^<br><dt><strong><a name="cgiEnvironmentWrongVersion">cgiEnvironmentWrongVersion<\/a>$/;"	a
+cgiEscapeFirst	cgic.c	/^	cgiEscapeFirst,$/;"	e	enum:__anon3	file:
+cgiEscapeRest	cgic.c	/^	cgiEscapeRest,$/;"	e	enum:__anon3	file:
+cgiEscapeSecond	cgic.c	/^	cgiEscapeSecond$/;"	e	enum:__anon3	file:
+cgiEscapeState	cgic.c	/^} cgiEscapeState;$/;"	t	typeref:enum:__anon3	file:
+cgiFile	cgic.c	/^} cgiFile;$/;"	t	typeref:struct:cgiFileStruct	file:
+cgiFilePtr	cgic.h	/^typedef struct cgiFileStruct *cgiFilePtr;$/;"	t	typeref:struct:cgiFileStruct
+cgiFileStruct	cgic.c	/^typedef struct cgiFileStruct {$/;"	s	file:
+cgiFindPos	cgic.c	/^static cgiFormEntry *cgiFindPos = 0;$/;"	v	file:
+cgiFindTarget	cgic.c	/^static char *cgiFindTarget = 0;$/;"	v	file:
+cgiFirstNonspaceChar	cgic.c	/^static int cgiFirstNonspaceChar(char *s) {$/;"	f	file:
+cgiFormBadType	cgic.h	/^	cgiFormBadType,$/;"	e	enum:__anon5
+cgiFormBadType	cgic.html	/^<br><dt><strong><a name="cgiFormBadType">cgiFormBadType<\/a>$/;"	a
+cgiFormCheckboxMultiple	cgic.c	/^extern cgiFormResultType cgiFormCheckboxMultiple($/;"	f
+cgiFormCheckboxMultiple	cgic.html	/^<br><br><dt><strong><a name="cgiFormCheckboxMultiple">$/;"	a
+cgiFormCheckboxSingle	cgic.c	/^cgiFormResultType cgiFormCheckboxSingle($/;"	f
+cgiFormCheckboxSingle	cgic.html	/^<a name="cgiFormCheckboxSingle">$/;"	a
+cgiFormConstrained	cgic.h	/^	cgiFormConstrained,$/;"	e	enum:__anon5
+cgiFormConstrained	cgic.html	/^<br><dt><strong><a name="cgiFormConstrained">cgiFormConstrained<\/a>$/;"	a
+cgiFormDouble	cgic.c	/^cgiFormResultType cgiFormDouble($/;"	f
+cgiFormDouble	cgic.html	/^<br><br><dt><strong><a name="cgiFormDouble">cgiFormResultType cgiFormDouble($/;"	a
+cgiFormDoubleBounded	cgic.c	/^cgiFormResultType cgiFormDoubleBounded($/;"	f
+cgiFormDoubleBounded	cgic.html	/^<br><br><dt><strong><a name="cgiFormDoubleBounded">$/;"	a
+cgiFormEOF	cgic.h	/^	cgiFormEOF$/;"	e	enum:__anon5
+cgiFormEOF	cgic.html	/^<br><dt><strong><a name="cgiFormEOF">cgiFormEOF<\/a>$/;"	a
+cgiFormEOF	cgic.html	/^<br><dt><strong><a name="cgiFormEOF">cgiFormIO<\/a>$/;"	a
+cgiFormEmpty	cgic.h	/^	cgiFormEmpty,$/;"	e	enum:__anon5
+cgiFormEmpty	cgic.html	/^<br><dt><strong><a name="cgiFormEmpty">cgiFormEmpty<\/a>$/;"	a
+cgiFormEntries	cgic.c	/^cgiFormResultType cgiFormEntries(char ***result) {$/;"	f
+cgiFormEntries	cgic.html	/^<br><br><dt><strong><a name="cgiFormEntries">cgiFormResultType cgiFormEntries($/;"	a
+cgiFormEntry	cgic.c	/^} cgiFormEntry;$/;"	t	typeref:struct:cgiFormEntryStruct	file:
+cgiFormEntryFindFirst	cgic.c	/^static cgiFormEntry *cgiFormEntryFindFirst(char *name) {$/;"	f	file:
+cgiFormEntryFindNext	cgic.c	/^static cgiFormEntry *cgiFormEntryFindNext() {$/;"	f	file:
+cgiFormEntryFirst	cgic.c	/^static cgiFormEntry *cgiFormEntryFirst;$/;"	v	file:
+cgiFormEntryString	cgic.c	/^static cgiFormResultType cgiFormEntryString($/;"	f	file:
+cgiFormEntryStruct	cgic.c	/^typedef struct cgiFormEntryStruct {$/;"	s	file:
+cgiFormFileClose	cgic.c	/^cgiFormResultType cgiFormFileClose(cgiFilePtr cfp)$/;"	f
+cgiFormFileClose	cgic.html	/^<br><dt><strong><a name="cgiFormFileClose">cgiFormResultType cgiFormFileClose($/;"	a
+cgiFormFileContentType	cgic.c	/^cgiFormResultType cgiFormFileContentType($/;"	f
+cgiFormFileContentType	cgic.html	/^<br><dt><strong><a name="cgiFormFileContentType">cgiFormResultType cgiFormFileContentType($/;"	a
+cgiFormFileName	cgic.c	/^cgiFormResultType cgiFormFileName($/;"	f
+cgiFormFileName	cgic.html	/^<br><dt><strong><a name="cgiFormFileName">cgiFormResultType cgiFormFileName($/;"	a
+cgiFormFileOpen	cgic.c	/^cgiFormResultType cgiFormFileOpen($/;"	f
+cgiFormFileOpen	cgic.html	/^<br><dt><strong><a name="cgiFormFileOpen">cgiFormResultType cgiFormFileOpen($/;"	a
+cgiFormFileRead	cgic.c	/^cgiFormResultType cgiFormFileRead($/;"	f
+cgiFormFileRead	cgic.html	/^<br><dt><strong><a name="cgiFormFileRead">cgiFormResultType cgiFormFileRead($/;"	a
+cgiFormFileSize	cgic.c	/^cgiFormResultType cgiFormFileSize($/;"	f
+cgiFormFileSize	cgic.html	/^<br><dt><strong><a name="cgiFormFileSize">cgiFormResultType cgiFormFileSize($/;"	a
+cgiFormIO	cgic.h	/^	cgiFormIO,$/;"	e	enum:__anon5
+cgiFormInteger	cgic.c	/^cgiFormResultType cgiFormInteger($/;"	f
+cgiFormInteger	cgic.html	/^<br><br><dt><strong><a name="cgiFormInteger">cgiFormResultType cgiFormInteger($/;"	a
+cgiFormIntegerBounded	cgic.c	/^cgiFormResultType cgiFormIntegerBounded($/;"	f
+cgiFormIntegerBounded	cgic.html	/^<br><br><dt><strong><a name="cgiFormIntegerBounded">$/;"	a
+cgiFormMemory	cgic.h	/^	cgiFormMemory,$/;"	e	enum:__anon5
+cgiFormNoContentType	cgic.h	/^	cgiFormNoContentType,$/;"	e	enum:__anon5
+cgiFormNoContentType	cgic.html	/^<br><dt><strong><a name="cgiFormNoContentType">cgiFormNoContentType<\/a>$/;"	a
+cgiFormNoFileName	cgic.h	/^	cgiFormNoFileName,$/;"	e	enum:__anon5
+cgiFormNoFileName	cgic.html	/^<br><dt><strong><a name="cgiFormNoFileName">cgiFormNoFileName<\/a>$/;"	a
+cgiFormNoSuchChoice	cgic.h	/^	cgiFormNoSuchChoice,$/;"	e	enum:__anon5
+cgiFormNoSuchChoice	cgic.html	/^<br><dt><strong><a name="cgiFormNoSuchChoice">cgiFormNoSuchChoice<\/a>$/;"	a
+cgiFormNotAFile	cgic.h	/^	cgiFormNotAFile,$/;"	e	enum:__anon5
+cgiFormNotAFile	cgic.html	/^<br><dt><strong><a name="cgiFormNotAFile">cgiFormNotAFile<\/a>$/;"	a
+cgiFormNotFound	cgic.h	/^	cgiFormNotFound,$/;"	e	enum:__anon5
+cgiFormNotFound	cgic.html	/^<br><dt><strong><a name="cgiFormNotFound">cgiFormNotFound<\/a>$/;"	a
+cgiFormOpenFailed	cgic.h	/^	cgiFormOpenFailed,$/;"	e	enum:__anon5
+cgiFormOpenFailed	cgic.html	/^<br><dt><strong><a name="cgiFormOpenFailed">cgiFormOpenFailed<\/a>$/;"	a
+cgiFormRadio	cgic.c	/^cgiFormResultType cgiFormRadio($/;"	f
+cgiFormRadio	cgic.html	/^<br><br><dt><strong><a name="cgiFormRadio">$/;"	a
+cgiFormResultType	cgic.h	/^} cgiFormResultType;$/;"	t	typeref:enum:__anon5
+cgiFormSelectMultiple	cgic.c	/^cgiFormResultType cgiFormSelectMultiple($/;"	f
+cgiFormSelectMultiple	cgic.html	/^<a name="cgiFormSelectMultiple">$/;"	a
+cgiFormSelectSingle	cgic.c	/^cgiFormResultType cgiFormSelectSingle($/;"	f
+cgiFormSelectSingle	cgic.html	/^<br><br><dt><strong><a name="cgiFormSelectSingle">$/;"	a
+cgiFormString	cgic.c	/^cgiFormResultType cgiFormString($/;"	f
+cgiFormString	cgic.html	/^<br><dt><strong><a name="cgiFormString">cgiFormResultType cgiFormString($/;"	a
+cgiFormStringMultiple	cgic.c	/^cgiFormResultType cgiFormStringMultiple($/;"	f
+cgiFormStringMultiple	cgic.html	/^<br><br><dt><strong><a name="cgiFormStringMultiple">cgiFormResultType cgiFormStringMultiple($/;"	a
+cgiFormStringNoNewlines	cgic.c	/^cgiFormResultType cgiFormStringNoNewlines($/;"	f
+cgiFormStringNoNewlines	cgic.html	/^<br><br><dt><strong><a name="cgiFormStringNoNewlines">$/;"	a
+cgiFormStringSpaceNeeded	cgic.c	/^cgiFormResultType cgiFormStringSpaceNeeded($/;"	f
+cgiFormStringSpaceNeeded	cgic.html	/^<br><br><dt><strong><a name="cgiFormStringSpaceNeeded">$/;"	a
+cgiFormSubmitClicked	cgic.h	131;"	d
+cgiFormSubmitClicked	cgic.html	/^<a name="cgiFormSubmitClicked">$/;"	a
+cgiFormSuccess	cgic.h	/^	cgiFormSuccess,$/;"	e	enum:__anon5
+cgiFormSuccess	cgic.html	/^<br><dt><strong><a name="cgiFormSuccess">cgiFormSuccess<\/a>$/;"	a
+cgiFormTruncated	cgic.h	/^	cgiFormTruncated,$/;"	e	enum:__anon5
+cgiFormTruncated	cgic.html	/^<br><dt><strong><a name="cgiFormTruncated">cgiFormTruncated<\/a>$/;"	a
+cgiFreeResources	cgic.c	/^static void cgiFreeResources() {$/;"	f	file:
+cgiGatewayInterface	cgic.c	/^char *cgiGatewayInterface;$/;"	v
+cgiGatewayInterface	cgic.html	/^<br><dt><strong><a name="cgiGatewayInterface">char *cgiGatewayInterface<\/a>$/;"	a
+cgiGetenv	cgic.c	/^static void cgiGetenv(char **s, char *var){$/;"	f	file:
+cgiHeaderContentType	cgic.c	/^void cgiHeaderContentType(char *mimeType) {$/;"	f
+cgiHeaderContentType	cgic.html	/^<br><br><dt><strong><a name="cgiHeaderContentType">$/;"	a
+cgiHeaderCookieSetInteger	cgic.c	/^void cgiHeaderCookieSetInteger(char *name, int value, int secondsToLive,$/;"	f
+cgiHeaderCookieSetInteger	cgic.html	/^<br><br><dt><strong><a name="cgiHeaderCookieSetInteger">$/;"	a
+cgiHeaderCookieSetString	cgic.c	/^void cgiHeaderCookieSetString(char *name, char *value, int secondsToLive,$/;"	f
+cgiHeaderCookieSetString	cgic.html	/^<br><br><dt><strong><a name="cgiHeaderCookieSetString">$/;"	a
+cgiHeaderLocation	cgic.c	/^void cgiHeaderLocation(char *redirectUrl) {$/;"	f
+cgiHeaderLocation	cgic.html	/^<br><br><dt><strong><a name="cgiHeaderLocation">$/;"	a
+cgiHeaderStatus	cgic.c	/^void cgiHeaderStatus(int status, char *statusMessage) {$/;"	f
+cgiHeaderStatus	cgic.html	/^<br><br><dt><strong><a name="cgiHeaderStatus">$/;"	a
+cgiHexValue	cgic.c	/^static int cgiHexValue[256];$/;"	v	file:
+cgiHtmlEscape	cgic.c	/^cgiFormResultType cgiHtmlEscape(char *s)$/;"	f
+cgiHtmlEscape	cgic.html	/^<br><br><dt><strong><a name="cgiHtmlEscape">$/;"	a
+cgiHtmlEscapeData	cgic.c	/^cgiFormResultType cgiHtmlEscapeData(char *data, int len)$/;"	f
+cgiHtmlEscapeData	cgic.html	/^<br><br><dt><strong><a name="cgiHtmlEscapeData">$/;"	a
+cgiIn	cgic.c	/^FILE *cgiIn;$/;"	v
+cgiIn	cgic.html	/^<br><dt><strong><a name="cgiIn">FILE *cgiIn<\/a>$/;"	a
+cgiMain	capture.c	/^int cgiMain() {$/;"	f
+cgiMain	cgic.html	/^<br><br><dt><strong><a name="cgiMain">int cgiMain()<\/a>$/;"	a
+cgiMain	cgictest.c	/^int cgiMain() {$/;"	f
+cgiMain	run_shell.c	/^int cgiMain()$/;"	f
+cgiMain	upload.c	/^int cgiMain() {$/;"	f
+cgiMultipartBoundary	cgic.c	/^char *cgiMultipartBoundary;$/;"	v
+cgiOut	cgic.c	/^FILE *cgiOut;$/;"	v
+cgiOut	cgic.html	/^<br><dt><strong><a name="cgiOut">FILE *cgiOut<\/a>$/;"	a
+cgiParseFormInput	cgic.c	/^static cgiParseResultType cgiParseFormInput(char *data, int length) {$/;"	f	file:
+cgiParseGetFormInput	cgic.c	/^static cgiParseResultType cgiParseGetFormInput() {$/;"	f	file:
+cgiParseIO	cgic.c	/^	cgiParseIO$/;"	e	enum:__anon1	file:
+cgiParseMemory	cgic.c	/^	cgiParseMemory,$/;"	e	enum:__anon1	file:
+cgiParsePostFormInput	cgic.c	/^static cgiParseResultType cgiParsePostFormInput() {$/;"	f	file:
+cgiParsePostMultipartInput	cgic.c	/^static cgiParseResultType cgiParsePostMultipartInput() {$/;"	f	file:
+cgiParseResultType	cgic.c	/^} cgiParseResultType;$/;"	t	typeref:enum:__anon1	file:
+cgiParseSuccess	cgic.c	/^	cgiParseSuccess,$/;"	e	enum:__anon1	file:
+cgiPathInfo	cgic.c	/^char *cgiPathInfo;$/;"	v
+cgiPathInfo	cgic.html	/^<br><dt><strong><a name="cgiPathInfo">char *cgiPathInfo<\/a>$/;"	a
+cgiPathTranslated	cgic.c	/^char *cgiPathTranslated;$/;"	v
+cgiPathTranslated	cgic.html	/^<br><dt><strong><a name="cgiPathTranslated">char *cgiPathTranslated<\/a>$/;"	a
+cgiQueryString	cgic.c	/^char *cgiQueryString;$/;"	v
+cgiQueryString	cgic.html	/^<br><dt><strong><a name="cgiQueryString">char *cgiQueryString<\/a>$/;"	a
+cgiReadEnvironment	cgic.c	/^cgiEnvironmentResultType cgiReadEnvironment(char *filename) {$/;"	f
+cgiReadEnvironment	cgic.html	/^<br><br><dt><strong><a name="cgiReadEnvironment">$/;"	a
+cgiReadInt	cgic.c	/^static int cgiReadInt(FILE *out, int *i) {$/;"	f	file:
+cgiReadString	cgic.c	/^static int cgiReadString(FILE *in, char **s) {$/;"	f	file:
+cgiReferer	cgic.h	48;"	d
+cgiReferrer	cgic.c	/^char *cgiReferrer;$/;"	v
+cgiReferrer	cgic.html	/^<br><dt><strong><a name="cgiReferrer">char *cgiReferrer<\/a>$/;"	a
+cgiRemoteAddr	cgic.c	/^char *cgiRemoteAddr;$/;"	v
+cgiRemoteAddr	cgic.html	/^<br><dt><strong><a name="cgiRemoteAddr">char *cgiRemoteAddr<\/a>$/;"	a
+cgiRemoteHost	cgic.c	/^char *cgiRemoteHost;$/;"	v
+cgiRemoteHost	cgic.html	/^<br><dt><strong><a name="cgiRemoteHost">char *cgiRemoteHost<\/a>$/;"	a
+cgiRemoteIdent	cgic.c	/^char *cgiRemoteIdent;$/;"	v
+cgiRemoteIdent	cgic.html	/^<br><dt><strong><a name="cgiRemoteIdent">char *cgiRemoteIdent<\/a>$/;"	a
+cgiRemoteUser	cgic.c	/^char *cgiRemoteUser;$/;"	v
+cgiRemoteUser	cgic.html	/^<br><dt><strong><a name="cgiRemoteUser">char *cgiRemoteUser<\/a>$/;"	a
+cgiRequestMethod	cgic.c	/^char *cgiRequestMethod;$/;"	v
+cgiRequestMethod	cgic.html	/^<br><dt><strong><a name="cgiRequestMethod">char *cgiRequestMethod<\/a>$/;"	a
+cgiRestored	cgic.c	/^static int cgiRestored = 0;$/;"	v	file:
+cgiScriptName	cgic.c	/^char *cgiScriptName;$/;"	v
+cgiScriptName	cgic.html	/^<br><dt><strong><a name="cgiScriptName">char *cgiScriptName<\/a>$/;"	a
+cgiServerName	cgic.c	/^char *cgiServerName;$/;"	v
+cgiServerName	cgic.html	/^<br><dt><strong><a name="cgiServerName">char *cgiServerName<\/a>$/;"	a
+cgiServerPort	cgic.c	/^char *cgiServerPort;$/;"	v
+cgiServerPort	cgic.html	/^<br><dt><strong><a name="cgiServerPort">char *cgiServerPort<\/a>$/;"	a
+cgiServerProtocol	cgic.c	/^char *cgiServerProtocol;$/;"	v
+cgiServerProtocol	cgic.html	/^<br><dt><strong><a name="cgiServerProtocol">char *cgiServerProtocol<\/a>$/;"	a
+cgiServerSoftware	cgic.c	/^char *cgiServerSoftware;$/;"	v
+cgiServerSoftware	cgic.html	/^<br><dt><strong><a name="cgiServerSoftware">char *cgiServerSoftware<\/a>$/;"	a
+cgiSetupConstants	cgic.c	/^static void cgiSetupConstants() {$/;"	f	file:
+cgiStrBeginsNc	cgic.c	/^static int cgiStrBeginsNc(char *s1, char *s2) {$/;"	f	file:
+cgiStrEq	cgic.c	47;"	d	file:
+cgiStrEqNc	cgic.c	/^static int cgiStrEqNc(char *s1, char *s2) {$/;"	f	file:
+cgiStringArrayFree	cgic.c	/^void cgiStringArrayFree(char **stringArray) {$/;"	f
+cgiStringArrayFree	cgic.html	/^    function cgiStringArrayFree() does the job completely. *\/  $/;"	f
+cgiStringArrayFree	cgic.html	/^<br><br><dt><strong><a name="cgiStringArrayFree">void cgiStringArrayFree(char **stringArray)$/;"	a
+cgiUnescapeChars	cgic.c	/^cgiUnescapeResultType cgiUnescapeChars(char **sp, char *cp, int len) {$/;"	f
+cgiUnescapeMemory	cgic.c	/^	cgiUnescapeMemory$/;"	e	enum:__anon4	file:
+cgiUnescapeResultType	cgic.c	/^} cgiUnescapeResultType;$/;"	t	typeref:enum:__anon4	file:
+cgiUnescapeSuccess	cgic.c	/^	cgiUnescapeSuccess,$/;"	e	enum:__anon4	file:
+cgiUserAgent	cgic.c	/^char *cgiUserAgent;$/;"	v
+cgiUserAgent	cgic.html	/^<br><dt><strong><a name="cgiUserAgent">char *cgiUserAgent<\/a>$/;"	a
+cgiValueEscape	cgic.c	/^cgiFormResultType cgiValueEscape(char *s)$/;"	f
+cgiValueEscape	cgic.html	/^<br><br><dt><strong><a name="cgiValueEscape">$/;"	a
+cgiValueEscapeData	cgic.c	/^cgiFormResultType cgiValueEscapeData(char *data, int len)$/;"	f
+cgiValueEscapeData	cgic.html	/^<br><br><dt><strong><a name="cgiValueEscapeData">$/;"	a
+cgiWriteEnvironment	cgic.c	/^cgiEnvironmentResultType cgiWriteEnvironment(char *filename) {$/;"	f
+cgiWriteEnvironment	cgic.html	/^<br><br><dt><strong><a name="cgiWriteEnvironment">$/;"	a
+cgiWriteInt	cgic.c	/^static int cgiWriteInt(FILE *out, int i) {$/;"	f	file:
+cgiWriteString	cgic.c	/^static int cgiWriteString(FILE *out, char *s) {$/;"	f	file:
+cgicTempDir	cgic.c	9;"	d	file:
+colors	cgictest.c	/^char *colors[] = {$/;"	v
+contentType	cgic.c	/^	char *contentType;$/;"	m	struct:cgiFormEntryStruct	file:
+correctName	upload.c	/^char *correctName(char *p)$/;"	f
+credits	cgic.html	/^<h3><a name="credits">Credits and License Terms<\/a><\/h3>$/;"	a
+csadd	other.c	/^int csadd;$/;"	m	struct:tag	file:
+days	cgic.c	/^char *days[] = {$/;"	v
+debug	cgic.html	/^<h3><a name="debug">Debugging CGI applications: using capture<\/a><\/h3>$/;"	a
+decomposeValue	cgic.c	/^static void decomposeValue(char *value,$/;"	f	file:
+fileName	cgic.c	/^	char *fileName;	$/;"	m	struct:cgiFormEntryStruct	file:
+flavors	cgictest.c	/^char *flavors[] = {$/;"	v
+functions	cgic.html	/^<h3><a name="functions">cgic function reference<\/a><\/h3>$/;"	a
+getTempFileName	cgic.c	/^static cgiParseResultType getTempFileName(char *tfileName)$/;"	f	file:
+howto	cgic.html	/^<h3><a name="howto">How to write a cgic application<\/a><\/h3>$/;"	a
+images	cgic.html	/^<h3><a name="images">How can I generate images from my cgic application?<\/a><\/h3>$/;"	a
+in	cgic.c	/^	FILE *in;$/;"	m	struct:cgiFileStruct	file:
+index	cgic.html	/^<h3><a name="index">cgic quick index<\/a><\/h3>$/;"	a
+main	cgic.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	other.c	/^int main(int argc, char **argv, char *env[])$/;"	f
+months	cgic.c	/^char *months[] = {$/;"	v
+mpPutBack	cgic.c	/^void mpPutBack(mpStreamPtr mpp, char *data, int len)$/;"	f
+mpRead	cgic.c	/^int mpRead(mpStreamPtr mpp, char *buffer, int len)$/;"	f
+mpStream	cgic.c	/^} mpStream, *mpStreamPtr;$/;"	t	typeref:struct:__anon2	file:
+mpStreamPtr	cgic.c	/^} mpStream, *mpStreamPtr;$/;"	t	typeref:struct:__anon2	file:
+next	cgic.c	/^        struct cgiFormEntryStruct *next;$/;"	m	struct:cgiFormEntryStruct	typeref:struct:cgiFormEntryStruct::cgiFormEntryStruct	file:
+nocompile	cgic.html	/^<h3><a name="nocompile">What to do if it won't compile<\/a><\/h3>$/;"	a
+obtain	cgic.html	/^<h3><a name="obtain">Obtaining cgic<\/a><\/h3>$/;"	a
+offset	cgic.c	/^	int offset;$/;"	m	struct:__anon2	file:
+putback	cgic.c	/^	char putback[1024];	$/;"	m	struct:__anon2	file:
+readHeaderLine	cgic.c	/^static int readHeaderLine($/;"	f	file:
+readPos	cgic.c	/^	int readPos;$/;"	m	struct:__anon2	file:
+resultcodes	cgic.html	/^<H3><a name="resultcodes">cgic result code reference<\/a><\/h3>$/;"	a
+support	cgic.html	/^<h3><a name="support">How to Get Support<\/a><\/h3>$/;"	a
+tag	other.c	/^struct tag{$/;"	s	file:
+temp	other.c	/^}*temp;$/;"	v	typeref:struct:tag
+tfileName	cgic.c	/^	char *tfileName;$/;"	m	struct:cgiFormEntryStruct	file:
+value	cgic.c	/^	char *value;$/;"	m	struct:cgiFormEntryStruct	file:
+valueLength	cgic.c	/^	int valueLength;$/;"	m	struct:cgiFormEntryStruct	file:
+variables	cgic.html	/^<h3><a name="variables">cgic variable reference<\/a><\/h3>$/;"	a
+votes	cgictest.c	/^char *votes[] = {$/;"	v
+whatis	cgic.html	/^<h3><a name="whatis">What is cgic?<\/a><\/h3>$/;"	a
+whatsnew101	cgic.html	/^<h3><a name="whatsnew101">What's new in version 1.01?<\/a><\/h3>$/;"	a
+whatsnew102	cgic.html	/^<h3><a name="whatsnew102">What's new in version 1.02?<\/a><\/h3>$/;"	a
+whatsnew103	cgic.html	/^<h3><a name="whatsnew103">What's new in version 1.03?<\/a><\/h3>$/;"	a
+whatsnew104	cgic.html	/^<h3><a name="whatsnew104">What's new in version 1.04?<\/a><\/h3>$/;"	a
+whatsnew105	cgic.html	/^<h3><a name="whatsnew105">What's new in version 1.05?<\/a><\/h3>$/;"	a
+whatsnew106	cgic.html	/^<h3><a name="whatsnew106">What's new in version 1.06?<\/a><\/h3>$/;"	a
+whatsnew107	cgic.html	/^<h3><a name="whatsnew107">What's new in version 1.07?<\/a><\/h3>$/;"	a
+whatsnew200	cgic.html	/^<h3><a name="whatsnew200">What's new in version 2.0?<\/a><\/h3>$/;"	a
+whatsnew201	cgic.html	/^<h3><a name="whatsnew201">What's new in version 2.01?<\/a><\/h3>$/;"	a
+whatsnew202	cgic.html	/^<h3><a name="whatsnew202">What's new in version 2.02?<\/a><\/h3>$/;"	a
+whatsnew203	cgic.html	/^<h3><a name="whatsnew203">What's new in version 2.03?<\/a><\/h3>$/;"	a
+whatsnew204	cgic.html	/^<h3><a name="whatsnew204">What's new in version 2.04?<\/a><\/h3>$/;"	a
+whatsnew205	cgic.html	/^<h3><a name="whatsnew205">What's new in version 2.05?<\/a><\/h3>$/;"	a
+writePos	cgic.c	/^	int writePos;$/;"	m	struct:__anon2	file:
